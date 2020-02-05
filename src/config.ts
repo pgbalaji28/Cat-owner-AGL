@@ -1,0 +1,1 @@
+export const AppConfig = { apiUrl: 'http://agl-developer-test.azurewebsites.net/people.json' };
